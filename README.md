@@ -7,7 +7,7 @@ Email Guardian is a Chrome extension designed to protect users from phishing ema
 - **Automatic Email Scanning**: Automatically scans emails for phishing threats and security risks.
 - **Real-Time Analysis**: Provides real-time analysis and displays results in an overlay popup.
 - **VirusTotal Integration**: Scans links using VirusTotal API to detect malicious URLs.
-- 
+
 ## Installation
 
 1. Clone the repository:
