@@ -24,11 +24,11 @@ Email Guardian is a Chrome extension designed to protect users from phishing ema
    - Click "Load unpacked" and select the `email-guardian` directory
 
 ## Usage
-
-1. Open your webmail service (Gmail, Outlook, Yahoo Mail).
-2. The extension will automatically scan emails as you open them.
-3. To manually scan an email, click the "Scan Email" button injected into the webmail interface.
-4. Review the analysis results displayed in the overlay popup.
+1. setup the api key by clicking the extension.
+2. Open your webmail service (Gmail, Outlook, Yahoo Mail).
+3. The extension will automatically scan emails as you open them.
+4. To manually scan an email, click the "Scan Email" button injected into the webmail interface.
+5. Review the analysis results displayed in the overlay popup.
 
 ## Contributing
 
@@ -49,9 +49,6 @@ We welcome contributions to improve Email Guardian! To contribute:
    ```
 5. Create a pull request on the main repository.
 
-## License
-
-This project is currently not licensed. Please contact the repository owner for more information.
 
 ## Technologies Used
 
